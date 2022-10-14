@@ -31,6 +31,7 @@ Projeto para otimizar as vendas da loja.
 //
 # Desenvolvedor Back-End
 //
-
-Inicio 14/10/2022 ás 01:52
+<br>
+Inicio 14/10/2022 ás 01:52 
+<br>
 Final --/--/-- ás --:--
